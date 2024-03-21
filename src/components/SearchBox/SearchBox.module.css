@@ -1,6 +1,7 @@
 .label {
   display: block;
   margin-bottom: 16px;
+  text-align: center;
 }
 
 .input {
